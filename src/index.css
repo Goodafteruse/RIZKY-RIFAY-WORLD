@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;900&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+body {
+  cursor: none; /* Hide default cursor globally for the custom blob effect */
+  background-color: #f3f4f6;
+}
+
+/* Ensure links and buttons show the pointer cursor logic handled by JS/React if needed, 
+   but since we have a custom cursor, we might want to keep it hidden or style it. 
+   For this 'creative' request, hiding it is standard. */
+a, button {
+  cursor: none;
+}
