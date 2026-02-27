@@ -75,5 +75,16 @@
     "year": "2026",
     "role": "Illustrator/Creative Retouching",
     "tags": ["Product", "Graphic", "Poster"]
+  },
+  {
+    "id": 8,
+    "title": "Timeless Elegance: Beyond the Horizon",
+    "image": "https://i.imgur.com/0WZH2em.jpeg",
+    "vibeColor": "#00ff99",
+    "size": "Large",
+    "description": "Konsep iklan majalah high-end yang menempatkan produk mewah dalam setting urban minimalis yang dingin",
+    "year": "2026",
+    "role": "Illustrator/Creative Retouching",
+    "tags": ["Product", "Graphic", "Poster"]
   }
 ]
