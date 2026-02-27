@@ -14,14 +14,14 @@
   },
   {
     "id": 2,
-    "title": "Urban Jungle",
+    "title": "Loncin",
     "image": "https://images.unsplash.com/photo-1534234828563-025cf17ebb88?auto=format&fit=crop&q=80&w=800",
     "vibeColor": "#00ff99",
     "size": "medium",
-    "description": "A photographic series capturing the intersection of nature and brutalist architecture in modern megacities. Highlighting the resilience of organic life in concrete environments.",
+    "description": "A photographic capturing the Loncin Product.",
     "year": "2023",
-    "role": "Photography",
-    "tags": ["Photography", "Architecture", "Nature"]
+    "role": "Illustrator",
+    "tags": ["Product", "Graphic", "Poster"]
   },
   {
     "id": 3,
