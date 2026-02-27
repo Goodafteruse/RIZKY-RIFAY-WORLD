@@ -12,12 +12,12 @@
   },
   {
     "id": 2,
-    "title": "Title: Loncin LC 3800P V2 - Product Campaign Poster",
+    "title": "Loncin LC 3800P V2 - Product Campaign Poster",
     "image": "https://i.imgur.com/8Oh2u9w.jpeg",
     "vibeColor": "#00ff99",
     "size": "Large",
     "description": "Desain poster komersial untuk genset Loncin. Konsep visualnya menonjolkan ketangguhan dan keandalan produk sebagai penyelamat di situasi gelap. Bermain dengan kontras latar kota malam yang dramatis dan warna merah produk yang bold. Fokus teknis ada pada compositing realistis, terutama pembuatan efek water reflection di permukaan aspal dan penataan tipografi yang impactful.",
-    "year": "2023",
+    "year": "2026",
     "role": "Illustrator",
     "tags": ["Product", "Graphic", "Poster"]
   },
@@ -28,8 +28,19 @@
     "vibeColor": "#00ccff",
     "size": "Large",
     "description": "Eksplorasi visual untuk sneaker Louis Vuitton edisi White Orange. Konsep Ignite The City ini ngegabungin vibes urban kota metropolitan yang monokrom dengan elemen futuristik dari glowing circuit di aspal. Fokus utamanya ada di manipulasi lighting dan compositing buat bikin sepatunya bener-bener jadi center of attention.Tools Adobe Photoshop.",
-    "year": "2024",
-    "role": "Creative Coding",
+    "year": "2026",
+    "role": "Illustrator",
     "tags": ["Generative Art", "WebGL"]
+    },
+  {
+    "id": 4,
+    "title": "Elden Ring - Apparel Graphic & Fan Art",
+    "image": "https://storage.ko-fi.com/cdn/useruploads/display/e23e10cb-3a78-4a33-a078-b36764251c00_1.png",
+    "vibeColor": "#00ff99",
+    "size": "Large",
+    "description": "Eksplorasi digital illustration bergaya komik/vektor untuk karakter ikonik Elden Ring. Fokus pada palet warna high contrast (hitam, merah, dan emas) untuk menonjolkan aura dark fantasy yang epik. Komposisi karakter dibuat padat dan centered, dirancang khusus agar sangat aplikatif untuk kebutuhan desain merchandise atau apparel (kaos).",
+    "year": "2026",
+    "role": "Illustrator",
+    "tags": ["Product", "Graphic", "Poster"]
   }
 ]
