@@ -1,29 +1,27 @@
 [
   {
-    {
-  "id": 1, 
-  "title": "FRESH SHOES",
-  "image": "https://i.imgur.com/hCdGgNE.png", 
-  "vibeColor": "#FFD700",
-  "size": "large",
-  "description": "Desain Poster Sepatu.",
-  "year": "2026",
-  "role": "Illustrator",
-  "tags": ["Product", "Graphic", "Cheerful"]
-}
+    "id": 1,
+    "title": "FRESH SHOES",
+    "image": "https://i.imgur.com/hCdGgNE.png",
+    "vibeColor": "#FFD700",
+    "size": "large",
+    "description": "INI DESKRIPSI BARU GUE YANG KEREN.",
+    "year": "2026",
+    "role": "Illustrator",
+    "tags": ["Product", "Graphic", "Cheerful"]
   },
   {
     "id": 2,
     "title": "Loncin",
-    "image": "https://imgur.com/a/Sbi2Km0",
+    "image": "https://i.imgur.com/Sbi2Km0.jpg",
     "vibeColor": "#00ff99",
     "size": "medium",
-    "description": "A photographic capturing the Loncin Product.",
+    "description": "Deskripsi produk Loncin terbaru.",
     "year": "2023",
     "role": "Illustrator",
     "tags": ["Product", "Graphic", "Poster"]
-  },
-  {
+  }
+]
     "id": 3,
     "title": "Abstract Flow",
     "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&q=80&w=800",
