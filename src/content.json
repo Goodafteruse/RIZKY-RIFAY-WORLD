@@ -1,14 +1,16 @@
 [
   {
-    "id": 1,
-    "title": "Neon Dreams",
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=800",
-    "vibeColor": "#ff0055",
-    "size": "large",
-    "description": "An immersive exploration of cyberpunk aesthetics through digital mixed media. This project combines glitch art with traditional photography to create a sense of digital decay and rebirth.",
-    "year": "2024",
-    "role": "Art Direction & Design",
-    "tags": ["Digital Art", "Cyberpunk", "Mixed Media"]
+    {
+  "id": 1, 
+  "title": "FRESH SHOES",
+  "image": "https://i.imgur.com/hCdGgNE.png", 
+  "vibeColor": "#FFD700",
+  "size": "large",
+  "description": "Desain Poster Sepatu.",
+  "year": "2026",
+  "role": "Illustrator",
+  "tags": ["Product", "Graphic", "Cheerful"]
+}
   },
   {
     "id": 2,
