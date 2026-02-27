@@ -187,7 +187,7 @@ and rough sketches to clean vectoring and final high-resolution
 rendering. I thrive on translating client briefs into expressive,
 scalable, and engaging visual assets.
 Core Competencies:
-2D Illustration & Character Design.
+2D, 3D Illustration & Character Design.
             </p>
             
             {/* Section Skills */}
