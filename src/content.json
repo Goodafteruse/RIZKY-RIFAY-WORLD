@@ -64,5 +64,16 @@
     "year": "2026",
     "role": "Illustrator/Creative Retouching",
     "tags": ["Product", "Graphic", "Poster"]
+   },
+  {
+    "id": 7,
+    "title": "Frozen Motion: The Adidas Ethereal",
+    "image": "https://i.imgur.com/gzxDNtQ.jpeg",
+    "vibeColor": "#00ff99",
+    "size": "Large",
+    "description": "Eksplorasi manipulasi objek melayang (levitation) dengan tema winter aesthetic. Fokus utama adalah menciptakan kontras antara tekstur produk yang solid dengan atmosfer lingkungan yang dingin dan berkabut",
+    "year": "2026",
+    "role": "Illustrator/Creative Retouching",
+    "tags": ["Product", "Graphic", "Poster"]
   }
 ]
