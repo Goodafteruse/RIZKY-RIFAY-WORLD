@@ -139,7 +139,77 @@ export default function App() {
           </motion.h1>
         </div>
       </motion.header>
+{/* --- TAMBAHAN BAGIAN BIODATA / CV --- */}
+      <section className="px-4 py-24 max-w-7xl mx-auto relative z-10">
+        <motion.div 
+          initial={{ opacity: 0, y: 50 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, margin: "-100px" }}
+          transition={{ duration: 0.8 }}
+          className="grid grid-cols-1 md:grid-cols-12 gap-10 items-start"
+        >
+          {/* Kolom Kiri: Judul / Intro */}
+          <div className="md:col-span-5">
+            <h2 className="text-5xl md:text-6xl font-black uppercase tracking-tighter leading-none mb-4 text-black">
+              HELLO, I'M <br /> RIZKY RIFAI.
+            </h2>
+            <p className="text-xl font-medium text-gray-800 mb-8 font-mono">
+              Graphic Designer & Digital Artist based in Tangerang.
+            </p>
+            
+            {/* Tombol Download CV */}
+            <a 
+              href="/cv-rizky.pdf" 
+              target="_blank" 
+              rel="noreferrer"
+              className="inline-flex items-center gap-2 px-6 py-4 bg-black text-white rounded-full font-bold uppercase tracking-wider text-sm hover:bg-gray-800 transition-colors cursor-none group"
+              onMouseEnter={() => setCursorVariant("hover")}
+              onMouseLeave={() => setCursorVariant("default")}
+            >
+              Download Full CV 
+              <ArrowUpRight className="w-5 h-5 group-hover:rotate-45 transition-transform" />
+            </a>
+          </div>
 
+          {/* Kolom Kanan: Summary & Skills */}
+          <div className="md:col-span-7 flex flex-col gap-8">
+            <p className="text-lg md:text-xl text-gray-800 leading-relaxed font-medium">
+              Hello! I'm Rizky, a passionate Graphic Designer and 2D Digital
+Illustrator specializing in character design, vector art, and digital
+assets.
+As the creator and lead artist of Pocket OCs, I manage an
+independent creative studio where I design and produce premium
+emote packs, custom stickers, and large-scale digital illustrations. I
+cater to streamers, gaming communities, and commercial clients
+worldwide.
+My expertise covers the entire creative pipeline from brainstorming
+and rough sketches to clean vectoring and final high-resolution
+rendering. I thrive on translating client briefs into expressive,
+scalable, and engaging visual assets.
+Core Competencies:
+2D Illustration & Character Design.
+            </p>
+            
+            {/* Section Skills */}
+            <div>
+              <h3 className="text-sm font-mono uppercase tracking-widest text-gray-500 mb-4">Core Skills & Tools</h3>
+              <div className="flex flex-wrap gap-3">
+                {['Photoshop', 'Illustrator', 'Digital Imaging', 'Pixel Art', 'Google Ads Creative'].map((skill, i) => (
+                  <span 
+                    key={i} 
+                    className="px-4 py-2 border-2 border-black rounded-full text-sm font-bold uppercase tracking-wider text-black hover:bg-black hover:text-white transition-all cursor-none"
+                    onMouseEnter={() => setCursorVariant("hover")}
+                    onMouseLeave={() => setCursorVariant("default")}
+                  >
+                    {skill}
+                  </span>
+                ))}
+              </div>
+            </div>
+          </div>
+        </motion.div>
+      </section>
+      {/* --- AKHIR TAMBAHAN BAGIAN BIODATA --- */}
       {/* Gallery Section */}
       <section className="px-4 pb-20 max-w-7xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6 auto-rows-[300px]">
