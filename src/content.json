@@ -23,11 +23,11 @@
   },
   {
     "id": 3,
-    "title": "Abstract Flow",
-    "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&q=80&w=800",
+    "title": "Louis Vuitton - Ignite The City",
+    "image": "https://i.imgur.com/0MoUUMM.jpeg",
     "vibeColor": "#00ccff",
-    "size": "small",
-    "description": "A generative art study using fluid dynamics.",
+    "size": "Large",
+    "description": "Eksplorasi visual untuk sneaker Louis Vuitton edisi White Orange. Konsep Ignite The City ini ngegabungin vibes urban kota metropolitan yang monokrom dengan elemen futuristik dari glowing circuit di aspal. Fokus utamanya ada di manipulasi lighting dan compositing buat bikin sepatunya bener-bener jadi center of attention.Tools Adobe Photoshop.",
     "year": "2024",
     "role": "Creative Coding",
     "tags": ["Generative Art", "WebGL"]
