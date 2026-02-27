@@ -16,53 +16,20 @@
     "image": "https://i.imgur.com/Sbi2Km0.jpg",
     "vibeColor": "#00ff99",
     "size": "medium",
-    "description": "Deskripsi produk Loncin terbaru.",
+    "description": "A photographic capturing the Loncin Product.",
     "year": "2023",
     "role": "Illustrator",
     "tags": ["Product", "Graphic", "Poster"]
-  }
-]
+  },
+  {
     "id": 3,
     "title": "Abstract Flow",
     "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&q=80&w=800",
     "vibeColor": "#00ccff",
     "size": "small",
-    "description": "A generative art study using fluid dynamics algorithms to create unique, one-of-a-kind visual patterns that mimic water and air currents.",
+    "description": "A generative art study using fluid dynamics.",
     "year": "2024",
     "role": "Creative Coding",
-    "tags": ["Generative Art", "WebGL", "Interactive"]
-  },
-  {
-    "id": 4,
-    "title": "Retro Future",
-    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=800",
-    "vibeColor": "#ffaa00",
-    "size": "medium",
-    "description": "A branding identity for a synthwave music festival. The visual language draws heavy inspiration from 80s arcade games and VHS typography.",
-    "year": "2023",
-    "role": "Branding & Identity",
-    "tags": ["Branding", "Typography", "Retro"]
-  },
-  {
-    "id": 5,
-    "title": "Minimalist",
-    "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&q=80&w=800",
-    "vibeColor": "#ffffff",
-    "size": "small",
-    "description": "A UI/UX case study for a meditation app focused on extreme simplicity and negative space. The goal was to reduce cognitive load to zero.",
-    "year": "2024",
-    "role": "UI/UX Design",
-    "tags": ["UI/UX", "Mobile App", "Minimalism"]
-  },
-  {
-    "id": 6,
-    "title": "Cyber Punk",
-    "image": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&q=80&w=800",
-    "vibeColor": "#9900ff",
-    "size": "large",
-    "description": "A 3D character design project for an upcoming indie game. Focusing on non-traditional humanoid forms and bioluminescent textures.",
-    "year": "2025",
-    "role": "3D Modeling",
-    "tags": ["3D Art", "Character Design", "Game Dev"]
+    "tags": ["Generative Art", "WebGL"]
   }
 ]
