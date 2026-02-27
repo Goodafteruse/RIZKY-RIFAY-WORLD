@@ -42,5 +42,16 @@
     "year": "2026",
     "role": "Illustrator",
     "tags": ["Product", "Graphic", "Poster"]
+     },
+  {
+    "id": 5,
+    "title": "Urban Surge: The Vans Old Skool",
+    "image": "https://i.imgur.com/59H7qn6.jpeg",
+    "vibeColor": "#00ff99",
+    "size": "Large",
+    "description": "Eksplorasi visual untuk streetwear brand campaign. Konsep utama dari karya ini adalah menggabungkan nuansa klasik kultur skateboard dengan elemen neon yang futuristik..",
+    "year": "2026",
+    "role": "Illustrator/Creative Retouching",
+    "tags": ["Product", "Graphic", "Poster"]
   }
 ]
