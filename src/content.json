@@ -86,5 +86,16 @@
     "year": "2026",
     "role": "Illustrator/Creative Retouching",
     "tags": ["Product", "Graphic", "Poster"]
+   },
+  {
+    "id": 9,
+    "title": "BMW M3 (F80) — THE POWER OF LESS",
+    "image": "https://i.imgur.com/bh90vUm.jpeg",
+    "vibeColor": "#00ff99",
+    "size": "Large",
+    "description": "Konsep The Power of Less diwujudkan melalui penggunaan whitespace yang terukur dan tipografi bold raksasa untuk menciptakan kedalaman visual (depth) tanpa mengalihkan fokus dari unit kendaraannya. Manipulasi lighting dilakukan untuk mempertegas lekuk bodi mobil dalam nuansa night driving yang misterius namun tetap premium",
+    "year": "2026",
+    "role": "Illustrator/Creative Retouching",
+    "tags": ["Automotive", "Graphic", "Poster"]
   }
 ]
