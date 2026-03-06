@@ -97,5 +97,16 @@
     "year": "2026",
     "role": "Illustrator/Creative Retouching",
     "tags": ["Automotive", "Graphic", "Poster"]
+ },
+  {
+    "id": 10,
+    "title": "Pikachu x Apple - Digital Illustration Concept",
+    "image": "https://i.imgur.com/fwXgUpp.jpeg",
+    "vibeColor": "#FFCC00",
+    "size": "Large",
+    "description": "Eksperimen ilustrasi digital yang menggabungkan ikon budaya populer, Pikachu, dengan elemen teknologi modern (iPhone). Proyek ini berfokus pada penggunaan digital brush yang memiliki tekstur kasar untuk memberikan kesan hangat dan hand-drawn meskipun dibuat secara digital",
+    "year": "2026",
+    "role": "Adobe Photoshop",
+    "tags": ["Brands", "Graphic", "Poster"]
   }
 ]
