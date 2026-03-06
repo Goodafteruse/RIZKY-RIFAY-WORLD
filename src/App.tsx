@@ -174,18 +174,9 @@ export default function App() {
           {/* Kolom Kanan: Summary & Skills */}
           <div className="md:col-span-7 flex flex-col gap-8">
             <p className="text-lg md:text-xl text-gray-800 leading-relaxed font-medium">
-              Hello! I'm Rizky, a passionate Graphic Designer and 2D Digital
-Illustrator specializing in character design, vector art, and digital
-assets.
-As the creator and lead artist of Pocket OCs, I manage an
-independent creative studio where I design and produce premium
-emote packs, custom stickers, and large-scale digital illustrations. I
-cater to streamers, gaming communities, and commercial clients
-worldwide.
-My expertise covers the entire creative pipeline from brainstorming
-and rough sketches to clean vectoring and final high-resolution
-rendering. I thrive on translating client briefs into expressive,
-scalable, and engaging visual assets.
+              Hello! I'm Rizky, a Visual Designer and 2D Digital Illustrator with a deep passion for character design, vector art, and high-fidelity digital assets.
+As the lead artist behind my independent creative studio, I manage the entire creative pipeline from initial brainstorming and rough sketches to clean vectoring and final high-resolution rendering. I thrive on translating complex client briefs into expressive, scalable, and engaging visual assets for a global audience.
+While my heart is in the craft of design, I also integrate Creative Strategy and Google Ads expertise to ensure that every visual I produce is not only aesthetically stunning but also strategically effective for digital campaigns.
 Core Competencies:
 2D, 3D Illustration & Character Design.
             </p>
@@ -194,7 +185,7 @@ Core Competencies:
             <div>
               <h3 className="text-sm font-mono uppercase tracking-widest text-gray-500 mb-4">Core Skills & Tools</h3>
               <div className="flex flex-wrap gap-3">
-                {['Photoshop', 'Illustrator', 'Digital Imaging', 'Pixel Art', 'Google Ads Creative'].map((skill, i) => (
+                {['Photoshop', 'Illustrator', 'Digital Imaging', 'Google Ads Creative'].map((skill, i) => (
                   <span 
                     key={i} 
                     className="px-4 py-2 border-2 border-black rounded-full text-sm font-bold uppercase tracking-wider text-black hover:bg-black hover:text-white transition-all cursor-none"
